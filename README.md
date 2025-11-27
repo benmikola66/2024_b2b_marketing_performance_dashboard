@@ -1,6 +1,6 @@
 # B2B Full-Funnel Marketing Performance Project
 
-![Dashboard Preview](b2b_marketing_dashboard.PNG)
+[Click here to view the dashboard image](b2b_marketing_dashboard.PNG)
 
 This project shows a full B2B marketing and revenue funnel built from raw data.  
 I cleaned and prepared all datasets in **SQL**, and created the final visualizations and performance dashboard in **Excel**.
